@@ -1,0 +1,18 @@
+body{
+    background:    hsl(53, 36%, 4%);
+}
+p,ol,ul,input,nav{
+    font-family: Helvetica, sans-serif;
+    color: aquamarine;
+    font-size: 40px;
+}
+.Lana{
+    background: white;
+}
+
+#Pablito{
+    background-color: brown;
+}
+input{
+    background: blueviolet;
+}
